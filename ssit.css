@@ -1,0 +1,13 @@
+ img{
+    border-radius:100%;
+}
+p.solid{
+    border-style:solid;
+    border-width:1px;
+    background-image: url(background.jpeg);
+}
+p
+{
+    color:#2185dc;
+}
+
